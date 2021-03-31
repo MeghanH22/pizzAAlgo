@@ -1,0 +1,5 @@
+Step 1 look at a Menu.
+Step 2 Decide which Pizza place to order from.
+Step 3 Order pizza for delivery.
+Step 4 Wait for the delivery.
+Step 5 Enjoy your pizza.
